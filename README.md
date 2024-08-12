@@ -1,4 +1,4 @@
-# Clip-Master-Automated-Video-Highlights-Using-AI
+# Clip_Master-Automated-Video-Highlights-Using-AI
 
 Clip Master is an AI-powered web-based application for processing video content through a pipeline that includes audio extraction, AI-driven transcription, text summarization, and an interactive Q&A system.
 Users can input a YouTube URL or a local video file path via a Streamlit UI. 
